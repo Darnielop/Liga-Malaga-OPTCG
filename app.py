@@ -99,7 +99,7 @@ with open("resultados.json", "r") as f:
     data = json.load(f)
 
 # Tabs
-tab1, tab2, tab3 = st.tabs(["Clasificación", "Meta", "Playoff"])
+tab1, tab2 = st.tabs(["Clasificación", "Playoff"])
 
 # TAB 1 - CLASIFICACIÓN
 with tab1:
@@ -124,48 +124,6 @@ with tab1:
                 st.markdown(f"<div class='group-title'>{group}</div>", unsafe_allow_html=True)
                 st.dataframe(df.style.apply(highlight_top4, axis=1), hide_index=True)
 
-# TAB 2 - META
+
 with tab2:
-    team_stats = {}
-    for match in data['matches']:
-        _, _, score1, score2, team1, team2 = match
-        if team1 not in team_stats:
-            team_stats[team1] = {'Victorias': 0, 'Partidos': 0}
-        if team2 not in team_stats:
-            team_stats[team2] = {'Victorias': 0, 'Partidos': 0}
-        team_stats[team1]['Partidos'] += 1
-        team_stats[team2]['Partidos'] += 1
-        if score1 > score2:
-            team_stats[team1]['Victorias'] += 1
-        else:
-            team_stats[team2]['Victorias'] += 1
-
-    meta_data = []
-    for team, stats in team_stats.items():
-        porcentaje_victorias = round((stats['Victorias'] / stats['Partidos']) * 100, 2)
-        meta_data.append({
-            'Nombre': team,
-            'Partidos': stats['Partidos'],
-            '% Victorias': porcentaje_victorias  # Guardamos como número para el orden correcto
-        })
-
-    winrate_df = pd.DataFrame(meta_data).sort_values('% Victorias', ascending=False).reset_index(drop=True)
-    winrate_df['% Victorias'] = winrate_df['% Victorias'].astype(str) + '%'
-
-    # Función para alternar colores en filas pares
-    def highlight_rows(row):
-        return ['background-color: #cfe2f3' if row.name % 2 == 0 else 'background-color: #ffffff'] * len(row)
-
-    styled_df = winrate_df.style.apply(highlight_rows, axis=1).set_properties(**{
-        'text-align': 'center',
-        'border': '1px solid #000',
-        'font-weight': 'bold',
-        'color': '#000000',
-    })
-
-    st.dataframe(styled_df, hide_index=True)
-
-
-# TAB 3 - PLAYOFF
-with tab3:
     st.write("Aquí se mostrará el bracket de playoffs próximamente.")
