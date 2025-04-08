@@ -118,11 +118,11 @@ with tab1:
         if i % 2 == 0:
             with col1:
                 st.markdown(f"<div class='group-title'>{group}</div>", unsafe_allow_html=True)
-                st.dataframe(df.style.apply(highlight_top4, axis=1), hide_index=True)
+                st.dataframe(df.drop(columns=["Desempate"]).style.apply(highlight_top4, axis=1), hide_index=True)
         else:
             with col2:
                 st.markdown(f"<div class='group-title'>{group}</div>", unsafe_allow_html=True)
-                st.dataframe(df.style.apply(highlight_top4, axis=1), hide_index=True)
+                st.dataframe(df.drop(columns=["Desempate"]).style.apply(highlight_top4, axis=1), hide_index=True)
 
 
 with tab2:
