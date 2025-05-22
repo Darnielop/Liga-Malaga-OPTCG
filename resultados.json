@@ -1,1 +1,1184 @@
-{"tables": {"Grupo 1": {"Victorias": {"Bipi": 4, "Remu": 4, "Donete": 7, "Grace": 2, "Pablo Sanz": 3, "Borja": 1, "Juanje": 1, "Joselu": 3, "Javi Guerrero": 3}, "Derrotas": {"Bipi": 2, "Remu": 3, "Donete": 0, "Grace": 4, "Pablo Sanz": 5, "Borja": 4, "Juanje": 4, "Joselu": 3, "Javi Guerrero": 3}, "Empates": {"Bipi": 0, "Remu": 0, "Donete": 0, "Grace": 0, "Pablo Sanz": 0, "Borja": 0, "Juanje": 0, "Joselu": 0, "Javi Guerrero": 0}, "Puntuaci\u00f3n": {"Bipi": 11.0, "Remu": 11.0, "Donete": 18.0, "Grace": 6.0, "Pablo Sanz": 9.0, "Borja": 4.0, "Juanje": 6.0, "Joselu": 11.0, "Javi Guerrero": 8.0}, "Buchholz": {"Bipi": 51, "Remu": 67, "Donete": 55, "Grace": 68, "Pablo Sanz": 75, "Borja": 55, "Juanje": 50, "Joselu": 59, "Javi Guerrero": 61}, "Dif. de pts.": {"Bipi": 0, "Remu": 0, "Donete": 0, "Grace": 0, "Pablo Sanz": 0, "Borja": 0, "Juanje": 0, "Joselu": 0, "Javi Guerrero": 0}, "HeadToHead": {"Bipi": 0.0, "Remu": 0.0, "Donete": 0.0, "Grace": 0.0, "Pablo Sanz": 0.0, "Borja": 0.0, "Juanje": 0.0, "Joselu": 0.0, "Javi Guerrero": 0.0}}, "Grupo 2": {"Victorias": {"Jafervi": 4, "Fita": 1, "Rome": 4, "Tony": 6, "Dario": 4, "Antonio Medina": 0, "Soto": 2, "Marco Calabrese": 6, "Sergio": 5}, "Derrotas": {"Jafervi": 3, "Fita": 6, "Rome": 2, "Tony": 1, "Dario": 3, "Antonio Medina": 7, "Soto": 5, "Marco Calabrese": 2, "Sergio": 3}, "Empates": {"Jafervi": 0, "Fita": 0, "Rome": 0, "Tony": 0, "Dario": 0, "Antonio Medina": 0, "Soto": 0, "Marco Calabrese": 0, "Sergio": 0}, "Puntuaci\u00f3n": {"Jafervi": 12.0, "Fita": 5.0, "Rome": 10.0, "Tony": 18.0, "Dario": 11.0, "Antonio Medina": 3.0, "Soto": 8.0, "Marco Calabrese": 14.0, "Sergio": 15.0}, "Buchholz": {"Jafervi": 74, "Fita": 88, "Rome": 63, "Tony": 70, "Dario": 75, "Antonio Medina": 88, "Soto": 70, "Marco Calabrese": 82, "Sergio": 81}, "Dif. de pts.": {"Jafervi": 0, "Fita": 0, "Rome": 0, "Tony": 0, "Dario": 0, "Antonio Medina": 0, "Soto": 0, "Marco Calabrese": 0, "Sergio": 0}, "HeadToHead": {"Jafervi": 0.0, "Fita": 0.0, "Rome": 0.0, "Tony": 0.0, "Dario": 0.0, "Antonio Medina": 0.0, "Soto": 0.0, "Marco Calabrese": 0.0, "Sergio": 0.0}}, "Grupo 3": {"Victorias": {"Francis": 6, "Pasku": 1, "Kai": 3, "Bloke": 1, "I\u00f1aki": 7, "Ruben": 4, "Manzanator": 2, "Fran": 3, "Rafa": 3}, "Derrotas": {"Francis": 1, "Pasku": 6, "Kai": 5, "Bloke": 5, "I\u00f1aki": 0, "Ruben": 3, "Manzanator": 3, "Fran": 4, "Rafa": 3}, "Empates": {"Francis": 0, "Pasku": 0, "Kai": 0, "Bloke": 0, "I\u00f1aki": 0, "Ruben": 0, "Manzanator": 0, "Fran": 0, "Rafa": 0}, "Puntuaci\u00f3n": {"Francis": 17.0, "Pasku": 6.0, "Kai": 11.0, "Bloke": 3.0, "I\u00f1aki": 20.0, "Ruben": 11.0, "Manzanator": 5.0, "Fran": 9.0, "Rafa": 8.0}, "Buchholz": {"Francis": 53, "Pasku": 79, "Kai": 79, "Bloke": 73, "I\u00f1aki": 53, "Ruben": 71, "Manzanator": 68, "Fran": 78, "Rafa": 66}, "Dif. de pts.": {"Francis": 0, "Pasku": 0, "Kai": 0, "Bloke": 0, "I\u00f1aki": 0, "Ruben": 0, "Manzanator": 0, "Fran": 0, "Rafa": 0}, "HeadToHead": {"Francis": 0.0, "Pasku": 0.0, "Kai": 0.0, "Bloke": 0.0, "I\u00f1aki": 0.0, "Ruben": 0.0, "Manzanator": 0.0, "Fran": 0.0, "Rafa": 0.0}}, "Grupo 4": {"Victorias": {"Marco": 5, "Mario": 5, "Nanaki": 1, "Santi": 6, "Seyok": 4, "Kiyo": 3, "Pablo Jamones": 5, "Guille": 3, "Xavi": 0}, "Derrotas": {"Marco": 2, "Mario": 3, "Nanaki": 5, "Santi": 1, "Seyok": 4, "Kiyo": 3, "Pablo Jamones": 2, "Guille": 5, "Xavi": 7}, "Empates": {"Marco": 0, "Mario": 0, "Nanaki": 0, "Santi": 0, "Seyok": 0, "Kiyo": 0, "Pablo Jamones": 0, "Guille": 0, "Xavi": 0}, "Puntuaci\u00f3n": {"Marco": 15.0, "Mario": 14.0, "Nanaki": 6.0, "Santi": 18.0, "Seyok": 14.0, "Kiyo": 8.0, "Pablo Jamones": 12.0, "Guille": 9.0, "Xavi": 0.0}, "Buchholz": {"Marco": 75, "Mario": 82, "Nanaki": 57, "Santi": 72, "Seyok": 82, "Kiyo": 76, "Pablo Jamones": 76, "Guille": 87, "Xavi": 88}, "Dif. de pts.": {"Marco": 0, "Mario": 0, "Nanaki": 0, "Santi": 0, "Seyok": 0, "Kiyo": 0, "Pablo Jamones": 0, "Guille": 0, "Xavi": 0}, "HeadToHead": {"Marco": 0.0, "Mario": 0.0, "Nanaki": 0.0, "Santi": 0.0, "Seyok": 0.0, "Kiyo": 0.0, "Pablo Jamones": 0.0, "Guille": 0.0, "Xavi": 0.0}}}, "matches": [["Bipi", "Remu", 0, 2], ["Donete", "Grace", 2, 1], ["Pablo Sanz", "Borja", 2, 0], ["Juanje", "Javi Guerrero", 1, 2], ["Jafervi", "Marco Calabrese", 0, 2], ["Fita", "Tony", 2, 0], ["Antonio Medina", "Rome", 1, 2], ["Soto", "Sergio", 0, 2], ["Francis", "Pasku", 2, 0], ["Kai", "Bloke", 2, 0], ["I\u00f1aki", "Ruben", 2, 0], ["Manzanator", "Fran", 0, 2], ["Marco", "Mario", 2, 0], ["Nanaki", "Pablo Jamones", 1, 2], ["Santi", "Seyok", 0, 2], ["Kiyo", "Guille", 2, 0], ["Remu", "Pablo Sanz", 2, 0], ["Borja", "Juanje", 0, 2], ["Donete", "Joselu", 2, 1], ["Donete", "Javi Guerrero", 2, 0], ["Bipi", "Grace", 2, 0], ["Pablo Sanz", "Grace", 2, 1], ["Borja", "Remu", 2, 0], ["Bipi", "Joselu", 2, 1], ["Sergio", "Fita", 2, 1], ["Jafervi", "Tony", 0, 2], ["Marco Calabrese", "Rome", 2, 1], ["Antonio Medina", "Tony", 0, 2], ["Jafervi", "Dario", 2, 1], ["Rome", "Soto", 2, 0], ["Dario", "Fita", 2, 0], ["Marco Calabrese", "Antonio Medina", 2, 1], ["Kai", "Rafa", 2, 0], ["Francis", "Bloke", 2, 0], ["Francis", "Rafa", 2, 0], ["I\u00f1aki", "Pasku", 2, 0], ["Fran", "Kai", 2, 0], ["Ruben", "Pasku", 2, 0], ["Manzanator", "Ruben", 2, 0], ["I\u00f1aki", "Bloke", 2, 0], ["Nanaki", "Xavi", 2, 0], ["Marco", "Pablo Jamones", 2, 0], ["Santi", "Mario", 2, 0], ["Nanaki", "Guille", 1, 2], ["Kiyo", "Seyok", 2, 0], ["Mario", "Seyok", 2, 1], ["Santi", "Pablo Jamones", 2, 0], ["Marco", "Xavi", 2, 0], ["Santi", "Guille", 2, 0, "Santi"], ["Bipi", "Javi Guerrero", 1, 2, "Javi Guerrero"], ["Donete", "Juanje", 2, 1, "Donete"], ["Joselu", "Pablo Sanz", 2, 0, "Joselu"], ["Remu", "Grace", 2, 0, "Remu"], ["Javi Guerrero", "Pablo Sanz", 2, 1, "Javi Guerrero"], ["Joselu", "Remu", 2, 0, "Joselu"], ["Marco Calabrese", "Tony", 0, 2, "Tony"], ["Soto", "Fita", 2, 0, "Soto"], ["Sergio", "Jafervi", 2, 1, "Sergio"], ["Dario", "Antonio Medina", 2, 1, "Dario"], ["Marco Calabrese", "Dario", 0, 2, "Dario"], ["Sergio", "Antonio Medina", 2, 0, "Sergio"], ["Jafervi", "Soto", 2, 0, "Jafervi"], ["Rome", "Tony", 0, 2, "Tony"], ["Bloke", "Pasku", 2, 1, "Bloke"], ["Manzanator", "Kai", 2, 1, "Manzanator"], ["I\u00f1aki", "Rafa", 2, 0, "I\u00f1aki"], ["Francis", "Fran", 2, 0, "Francis"], ["Rafa", "Pasku", 2, 1, "Rafa"], ["Francis", "Manzanator", 2, 0, "Francis"], ["Ruben", "Bloke", 2, 1, "Ruben"], ["Fran", "I\u00f1aki", 1, 2, "I\u00f1aki"], ["Santi", "Xavi", 2, 0, "Santi"], ["Guille", "Marco", 2, 0, "Guille"], ["Pablo Jamones", "Mario", 2, 0, "Pablo Jamones"], ["Kiyo", "Nanaki", 2, 1, "Kiyo"], ["Mario", "Xavi", 2, 0, "Mario"], ["Pablo Jamones", "Seyok", 2, 1, "Pablo Jamones"], ["Marco", "Kiyo", 2, 0, "Marco"], ["Grace", "Joselu", 2, 1, "Grace"], ["Donete", "Pablo Sanz", 2, 0, "Donete"], ["Joselu", "Borja", 2, 1, "Joselu"], ["Javi Guerrero", "Grace", 1, 2, "Grace"], ["Donete", "Remu", 2, 0, "Donete"], ["Donete", "Borja", 2, 0, "Donete"], ["Tony", "Sergio", 2, 0, "Tony"], ["Marco Calabrese", "Soto", 2, 1, "Marco Calabrese"], ["Marco Calabrese", "Fita", 2, 0, "Marco Calabrese"], ["Jafervi", "Fita", 2, 0, "Jafervi"], ["Sergio", "Dario", 2, 0, "Sergio"], ["Jafervi", "Antonio Medina", 2, 0, "Jafervi"], ["Dario", "Soto", 2, 1, "Dario"], ["Rafa", "Fran", 2, 0, "Rafa"], ["Rafa", "Bloke", 2, 0, "Rafa"], ["Manzanator", "I\u00f1aki", 0, 2, "I\u00f1aki"], ["Francis", "Kai", 2, 1, "Francis"], ["Pasku", "Kai", 2, 0, "Pasku"], ["Kai", "I\u00f1aki", 0, 2, "I\u00f1aki"], ["Ruben", "Fran", 2, 0, "Ruben"], ["Ruben", "Francis", 2, 0, "Ruben"], ["Bipi", "Pablo Sanz", 2, 1, "Bipi"], ["Seyok", "Nanaki", 2, 0, "Seyok"], ["Nanaki", "Mario", 0, 2, "Mario"], ["Pablo Jamones", "Guille", 2, 1, "Pablo Jamones"], ["Mario", "Kiyo", 2, 0, "Mario"], ["Santi", "Marco", 2, 0, "Santi"], ["Guille", "Xavi", 2, 0, "Guille"], ["Seyok", "Xavi", 2, 0, "Seyok"], ["Javi Guerrero", "Remu", 1, 2, "Remu"], ["Bipi", "Juanje", 2, 0, "Bipi"], ["Juanje", "Pablo Sanz", 1, 2, "Pablo Sanz"], ["Marco Calabrese", "Sergio", 2, 1, "Marco Calabrese"], ["Rome", "Fita", 2, 1, "Rome"], ["Dario", "Tony", 0, 2, "Tony"], ["Soto", "Antonio Medina", 2, 0, "Soto"], ["Fran", "Pasku", 2, 1, "Fran"], ["Kai", "Ruben", 2, 0, "Kai"], ["Kiyo", "Santi", 0, 2, "Santi"], ["Mario", "Guille", 2, 0, "Mario"], ["Pablo Jamones", "Xavi", 2, 0, "Pablo Jamones"], ["Rome", "Sergio", 2, 1, "Rome"], ["Marco", "Seyok", 2, 0, "Marco"], ["Seyok", "Guille", 2, 0, "Seyok"]]}
+{
+    "tables": {
+        "Grupo 1": {
+            "Victorias": {
+                "Bipi": 5,
+                "Remu": 4,
+                "Donete": 7,
+                "Grace": 3,
+                "Pablo Sanz": 3,
+                "Borja": 1,
+                "Juanje": 1,
+                "Joselu": 3,
+                "Javi Guerrero": 3
+            },
+            "Derrotas": {
+                "Bipi": 2,
+                "Remu": 3,
+                "Donete": 0,
+                "Grace": 4,
+                "Pablo Sanz": 5,
+                "Borja": 6,
+                "Juanje": 4,
+                "Joselu": 3,
+                "Javi Guerrero": 3
+            },
+            "Empates": {
+                "Bipi": 0,
+                "Remu": 0,
+                "Donete": 0,
+                "Grace": 0,
+                "Pablo Sanz": 0,
+                "Borja": 0,
+                "Juanje": 0,
+                "Joselu": 0,
+                "Javi Guerrero": 0
+            },
+            "Puntuaci\u00f3n": {
+                "Bipi": 14.0,
+                "Remu": 11.0,
+                "Donete": 18.0,
+                "Grace": 8.0,
+                "Pablo Sanz": 9.0,
+                "Borja": 5.0,
+                "Juanje": 6.0,
+                "Joselu": 11.0,
+                "Javi Guerrero": 8.0
+            },
+            "Buchholz": {
+                "Bipi": 58,
+                "Remu": 73,
+                "Donete": 58,
+                "Grace": 76,
+                "Pablo Sanz": 81,
+                "Borja": 77,
+                "Juanje": 54,
+                "Joselu": 65,
+                "Javi Guerrero": 66
+            },
+            "Dif. de pts.": {
+                "Bipi": 0,
+                "Remu": 0,
+                "Donete": 0,
+                "Grace": 0,
+                "Pablo Sanz": 0,
+                "Borja": 0,
+                "Juanje": 0,
+                "Joselu": 0,
+                "Javi Guerrero": 0
+            },
+            "HeadToHead": {
+                "Bipi": 0.0,
+                "Remu": 0.0,
+                "Donete": 0.0,
+                "Grace": 0.0,
+                "Pablo Sanz": 0.0,
+                "Borja": 0.0,
+                "Juanje": 0.0,
+                "Joselu": 0.0,
+                "Javi Guerrero": 0.0
+            }
+        },
+        "Grupo 2": {
+            "Victorias": {
+                "Jafervi": 5,
+                "Fita": 1,
+                "Rome": 4,
+                "Tony": 6,
+                "Dario": 5,
+                "Antonio Medina": 0,
+                "Soto": 2,
+                "Marco Calabrese": 6,
+                "Sergio": 5
+            },
+            "Derrotas": {
+                "Jafervi": 3,
+                "Fita": 6,
+                "Rome": 4,
+                "Tony": 1,
+                "Dario": 3,
+                "Antonio Medina": 7,
+                "Soto": 5,
+                "Marco Calabrese": 2,
+                "Sergio": 3
+            },
+            "Empates": {
+                "Jafervi": 0,
+                "Fita": 0,
+                "Rome": 0,
+                "Tony": 0,
+                "Dario": 0,
+                "Antonio Medina": 0,
+                "Soto": 0,
+                "Marco Calabrese": 0,
+                "Sergio": 0
+            },
+            "Puntuaci\u00f3n": {
+                "Jafervi": 15.0,
+                "Fita": 5.0,
+                "Rome": 10.0,
+                "Tony": 18.0,
+                "Dario": 14.0,
+                "Antonio Medina": 3.0,
+                "Soto": 8.0,
+                "Marco Calabrese": 14.0,
+                "Sergio": 15.0
+            },
+            "Buchholz": {
+                "Jafervi": 87,
+                "Fita": 94,
+                "Rome": 92,
+                "Tony": 76,
+                "Dario": 88,
+                "Antonio Medina": 94,
+                "Soto": 76,
+                "Marco Calabrese": 88,
+                "Sergio": 87
+            },
+            "Dif. de pts.": {
+                "Jafervi": 0,
+                "Fita": 0,
+                "Rome": 0,
+                "Tony": 0,
+                "Dario": 0,
+                "Antonio Medina": 0,
+                "Soto": 0,
+                "Marco Calabrese": 0,
+                "Sergio": 0
+            },
+            "HeadToHead": {
+                "Jafervi": 0.0,
+                "Fita": 0.0,
+                "Rome": 0.0,
+                "Tony": 0.0,
+                "Dario": 1.0,
+                "Antonio Medina": 0.0,
+                "Soto": 0.0,
+                "Marco Calabrese": 0.0,
+                "Sergio": 1.0
+            }
+        },
+        "Grupo 3": {
+            "Victorias": {
+                "Francis": 6,
+                "Pasku": 1,
+                "Kai": 3,
+                "Bloke": 1,
+                "I\u00f1aki": 7,
+                "Ruben": 4,
+                "Manzanator": 2,
+                "Fran": 4,
+                "Rafa": 4
+            },
+            "Derrotas": {
+                "Francis": 1,
+                "Pasku": 6,
+                "Kai": 5,
+                "Bloke": 6,
+                "I\u00f1aki": 0,
+                "Ruben": 4,
+                "Manzanator": 3,
+                "Fran": 4,
+                "Rafa": 3
+            },
+            "Empates": {
+                "Francis": 0,
+                "Pasku": 0,
+                "Kai": 0,
+                "Bloke": 0,
+                "I\u00f1aki": 0,
+                "Ruben": 0,
+                "Manzanator": 0,
+                "Fran": 0,
+                "Rafa": 0
+            },
+            "Puntuaci\u00f3n": {
+                "Francis": 17.0,
+                "Pasku": 6.0,
+                "Kai": 11.0,
+                "Bloke": 3.0,
+                "I\u00f1aki": 20.0,
+                "Ruben": 11.0,
+                "Manzanator": 5.0,
+                "Fran": 12.0,
+                "Rafa": 11.0
+            },
+            "Buchholz": {
+                "Francis": 59,
+                "Pasku": 85,
+                "Kai": 85,
+                "Bloke": 88,
+                "I\u00f1aki": 59,
+                "Ruben": 85,
+                "Manzanator": 71,
+                "Fran": 84,
+                "Rafa": 80
+            },
+            "Dif. de pts.": {
+                "Francis": 0,
+                "Pasku": 0,
+                "Kai": 0,
+                "Bloke": 0,
+                "I\u00f1aki": 0,
+                "Ruben": 0,
+                "Manzanator": 0,
+                "Fran": 0,
+                "Rafa": 0
+            },
+            "HeadToHead": {
+                "Francis": 0.0,
+                "Pasku": 0.0,
+                "Kai": 1.0,
+                "Bloke": 0.0,
+                "I\u00f1aki": 0.0,
+                "Ruben": 0.0,
+                "Manzanator": 0.0,
+                "Fran": 0.0,
+                "Rafa": 0.0
+            }
+        },
+        "Grupo 4": {
+            "Victorias": {
+                "Marco": 5,
+                "Mario": 5,
+                "Nanaki": 1,
+                "Santi": 6,
+                "Seyok": 4,
+                "Kiyo": 3,
+                "Pablo Jamones": 6,
+                "Guille": 3,
+                "Xavi": 1
+            },
+            "Derrotas": {
+                "Marco": 2,
+                "Mario": 3,
+                "Nanaki": 5,
+                "Santi": 1,
+                "Seyok": 4,
+                "Kiyo": 5,
+                "Pablo Jamones": 2,
+                "Guille": 5,
+                "Xavi": 7
+            },
+            "Empates": {
+                "Marco": 0,
+                "Mario": 0,
+                "Nanaki": 0,
+                "Santi": 0,
+                "Seyok": 0,
+                "Kiyo": 0,
+                "Pablo Jamones": 0,
+                "Guille": 0,
+                "Xavi": 0
+            },
+            "Puntuaci\u00f3n": {
+                "Marco": 15.0,
+                "Mario": 14.0,
+                "Nanaki": 6.0,
+                "Santi": 18.0,
+                "Seyok": 14.0,
+                "Kiyo": 8.0,
+                "Pablo Jamones": 15.0,
+                "Guille": 9.0,
+                "Xavi": 3.0
+            },
+            "Buchholz": {
+                "Marco": 81,
+                "Mario": 88,
+                "Nanaki": 63,
+                "Santi": 78,
+                "Seyok": 88,
+                "Kiyo": 94,
+                "Pablo Jamones": 87,
+                "Guille": 93,
+                "Xavi": 99
+            },
+            "Dif. de pts.": {
+                "Marco": 0,
+                "Mario": 0,
+                "Nanaki": 0,
+                "Santi": 0,
+                "Seyok": 0,
+                "Kiyo": 0,
+                "Pablo Jamones": 0,
+                "Guille": 0,
+                "Xavi": 0
+            },
+            "HeadToHead": {
+                "Marco": 0.0,
+                "Mario": 0.0,
+                "Nanaki": 0.0,
+                "Santi": 0.0,
+                "Seyok": 0.0,
+                "Kiyo": 0.0,
+                "Pablo Jamones": 0.0,
+                "Guille": 0.0,
+                "Xavi": 0.0
+            }
+        }
+    },
+    "matches": [
+        [
+            "Bipi",
+            "Remu",
+            0,
+            2
+        ],
+        [
+            "Donete",
+            "Grace",
+            2,
+            1
+        ],
+        [
+            "Pablo Sanz",
+            "Borja",
+            2,
+            0
+        ],
+        [
+            "Juanje",
+            "Javi Guerrero",
+            1,
+            2
+        ],
+        [
+            "Jafervi",
+            "Marco Calabrese",
+            0,
+            2
+        ],
+        [
+            "Fita",
+            "Tony",
+            2,
+            0
+        ],
+        [
+            "Antonio Medina",
+            "Rome",
+            1,
+            2
+        ],
+        [
+            "Soto",
+            "Sergio",
+            0,
+            2
+        ],
+        [
+            "Francis",
+            "Pasku",
+            2,
+            0
+        ],
+        [
+            "Kai",
+            "Bloke",
+            2,
+            0
+        ],
+        [
+            "I\u00f1aki",
+            "Ruben",
+            2,
+            0
+        ],
+        [
+            "Manzanator",
+            "Fran",
+            0,
+            2
+        ],
+        [
+            "Marco",
+            "Mario",
+            2,
+            0
+        ],
+        [
+            "Nanaki",
+            "Pablo Jamones",
+            1,
+            2
+        ],
+        [
+            "Santi",
+            "Seyok",
+            0,
+            2
+        ],
+        [
+            "Kiyo",
+            "Guille",
+            2,
+            0
+        ],
+        [
+            "Remu",
+            "Pablo Sanz",
+            2,
+            0
+        ],
+        [
+            "Borja",
+            "Juanje",
+            0,
+            2
+        ],
+        [
+            "Donete",
+            "Joselu",
+            2,
+            1
+        ],
+        [
+            "Donete",
+            "Javi Guerrero",
+            2,
+            0
+        ],
+        [
+            "Bipi",
+            "Grace",
+            2,
+            0
+        ],
+        [
+            "Pablo Sanz",
+            "Grace",
+            2,
+            1
+        ],
+        [
+            "Borja",
+            "Remu",
+            2,
+            0
+        ],
+        [
+            "Bipi",
+            "Joselu",
+            2,
+            1
+        ],
+        [
+            "Sergio",
+            "Fita",
+            2,
+            1
+        ],
+        [
+            "Jafervi",
+            "Tony",
+            0,
+            2
+        ],
+        [
+            "Marco Calabrese",
+            "Rome",
+            2,
+            1
+        ],
+        [
+            "Antonio Medina",
+            "Tony",
+            0,
+            2
+        ],
+        [
+            "Jafervi",
+            "Dario",
+            2,
+            1
+        ],
+        [
+            "Rome",
+            "Soto",
+            2,
+            0
+        ],
+        [
+            "Dario",
+            "Fita",
+            2,
+            0
+        ],
+        [
+            "Marco Calabrese",
+            "Antonio Medina",
+            2,
+            1
+        ],
+        [
+            "Kai",
+            "Rafa",
+            2,
+            0
+        ],
+        [
+            "Francis",
+            "Bloke",
+            2,
+            0
+        ],
+        [
+            "Francis",
+            "Rafa",
+            2,
+            0
+        ],
+        [
+            "I\u00f1aki",
+            "Pasku",
+            2,
+            0
+        ],
+        [
+            "Fran",
+            "Kai",
+            2,
+            0
+        ],
+        [
+            "Ruben",
+            "Pasku",
+            2,
+            0
+        ],
+        [
+            "Manzanator",
+            "Ruben",
+            2,
+            0
+        ],
+        [
+            "I\u00f1aki",
+            "Bloke",
+            2,
+            0
+        ],
+        [
+            "Nanaki",
+            "Xavi",
+            2,
+            0
+        ],
+        [
+            "Marco",
+            "Pablo Jamones",
+            2,
+            0
+        ],
+        [
+            "Santi",
+            "Mario",
+            2,
+            0
+        ],
+        [
+            "Nanaki",
+            "Guille",
+            1,
+            2
+        ],
+        [
+            "Kiyo",
+            "Seyok",
+            2,
+            0
+        ],
+        [
+            "Mario",
+            "Seyok",
+            2,
+            1
+        ],
+        [
+            "Santi",
+            "Pablo Jamones",
+            2,
+            0
+        ],
+        [
+            "Marco",
+            "Xavi",
+            2,
+            0
+        ],
+        [
+            "Santi",
+            "Guille",
+            2,
+            0,
+            "Santi"
+        ],
+        [
+            "Bipi",
+            "Javi Guerrero",
+            1,
+            2,
+            "Javi Guerrero"
+        ],
+        [
+            "Donete",
+            "Juanje",
+            2,
+            1,
+            "Donete"
+        ],
+        [
+            "Joselu",
+            "Pablo Sanz",
+            2,
+            0,
+            "Joselu"
+        ],
+        [
+            "Remu",
+            "Grace",
+            2,
+            0,
+            "Remu"
+        ],
+        [
+            "Javi Guerrero",
+            "Pablo Sanz",
+            2,
+            1,
+            "Javi Guerrero"
+        ],
+        [
+            "Joselu",
+            "Remu",
+            2,
+            0,
+            "Joselu"
+        ],
+        [
+            "Marco Calabrese",
+            "Tony",
+            0,
+            2,
+            "Tony"
+        ],
+        [
+            "Soto",
+            "Fita",
+            2,
+            0,
+            "Soto"
+        ],
+        [
+            "Sergio",
+            "Jafervi",
+            2,
+            1,
+            "Sergio"
+        ],
+        [
+            "Dario",
+            "Antonio Medina",
+            2,
+            1,
+            "Dario"
+        ],
+        [
+            "Marco Calabrese",
+            "Dario",
+            0,
+            2,
+            "Dario"
+        ],
+        [
+            "Sergio",
+            "Antonio Medina",
+            2,
+            0,
+            "Sergio"
+        ],
+        [
+            "Jafervi",
+            "Soto",
+            2,
+            0,
+            "Jafervi"
+        ],
+        [
+            "Rome",
+            "Tony",
+            0,
+            2,
+            "Tony"
+        ],
+        [
+            "Bloke",
+            "Pasku",
+            2,
+            1,
+            "Bloke"
+        ],
+        [
+            "Manzanator",
+            "Kai",
+            2,
+            1,
+            "Manzanator"
+        ],
+        [
+            "I\u00f1aki",
+            "Rafa",
+            2,
+            0,
+            "I\u00f1aki"
+        ],
+        [
+            "Francis",
+            "Fran",
+            2,
+            0,
+            "Francis"
+        ],
+        [
+            "Rafa",
+            "Pasku",
+            2,
+            1,
+            "Rafa"
+        ],
+        [
+            "Francis",
+            "Manzanator",
+            2,
+            0,
+            "Francis"
+        ],
+        [
+            "Ruben",
+            "Bloke",
+            2,
+            1,
+            "Ruben"
+        ],
+        [
+            "Fran",
+            "I\u00f1aki",
+            1,
+            2,
+            "I\u00f1aki"
+        ],
+        [
+            "Santi",
+            "Xavi",
+            2,
+            0,
+            "Santi"
+        ],
+        [
+            "Guille",
+            "Marco",
+            2,
+            0,
+            "Guille"
+        ],
+        [
+            "Pablo Jamones",
+            "Mario",
+            2,
+            0,
+            "Pablo Jamones"
+        ],
+        [
+            "Kiyo",
+            "Nanaki",
+            2,
+            1,
+            "Kiyo"
+        ],
+        [
+            "Mario",
+            "Xavi",
+            2,
+            0,
+            "Mario"
+        ],
+        [
+            "Pablo Jamones",
+            "Seyok",
+            2,
+            1,
+            "Pablo Jamones"
+        ],
+        [
+            "Marco",
+            "Kiyo",
+            2,
+            0,
+            "Marco"
+        ],
+        [
+            "Grace",
+            "Joselu",
+            2,
+            1,
+            "Grace"
+        ],
+        [
+            "Donete",
+            "Pablo Sanz",
+            2,
+            0,
+            "Donete"
+        ],
+        [
+            "Joselu",
+            "Borja",
+            2,
+            1,
+            "Joselu"
+        ],
+        [
+            "Javi Guerrero",
+            "Grace",
+            1,
+            2,
+            "Grace"
+        ],
+        [
+            "Donete",
+            "Remu",
+            2,
+            0,
+            "Donete"
+        ],
+        [
+            "Donete",
+            "Borja",
+            2,
+            0,
+            "Donete"
+        ],
+        [
+            "Tony",
+            "Sergio",
+            2,
+            0,
+            "Tony"
+        ],
+        [
+            "Marco Calabrese",
+            "Soto",
+            2,
+            1,
+            "Marco Calabrese"
+        ],
+        [
+            "Marco Calabrese",
+            "Fita",
+            2,
+            0,
+            "Marco Calabrese"
+        ],
+        [
+            "Jafervi",
+            "Fita",
+            2,
+            0,
+            "Jafervi"
+        ],
+        [
+            "Sergio",
+            "Dario",
+            2,
+            0,
+            "Sergio"
+        ],
+        [
+            "Jafervi",
+            "Antonio Medina",
+            2,
+            0,
+            "Jafervi"
+        ],
+        [
+            "Dario",
+            "Soto",
+            2,
+            1,
+            "Dario"
+        ],
+        [
+            "Rafa",
+            "Fran",
+            2,
+            0,
+            "Rafa"
+        ],
+        [
+            "Rafa",
+            "Bloke",
+            2,
+            0,
+            "Rafa"
+        ],
+        [
+            "Manzanator",
+            "I\u00f1aki",
+            0,
+            2,
+            "I\u00f1aki"
+        ],
+        [
+            "Francis",
+            "Kai",
+            2,
+            1,
+            "Francis"
+        ],
+        [
+            "Pasku",
+            "Kai",
+            2,
+            0,
+            "Pasku"
+        ],
+        [
+            "Kai",
+            "I\u00f1aki",
+            0,
+            2,
+            "I\u00f1aki"
+        ],
+        [
+            "Ruben",
+            "Fran",
+            2,
+            0,
+            "Ruben"
+        ],
+        [
+            "Ruben",
+            "Francis",
+            2,
+            0,
+            "Ruben"
+        ],
+        [
+            "Bipi",
+            "Pablo Sanz",
+            2,
+            1,
+            "Bipi"
+        ],
+        [
+            "Seyok",
+            "Nanaki",
+            2,
+            0,
+            "Seyok"
+        ],
+        [
+            "Nanaki",
+            "Mario",
+            0,
+            2,
+            "Mario"
+        ],
+        [
+            "Pablo Jamones",
+            "Guille",
+            2,
+            1,
+            "Pablo Jamones"
+        ],
+        [
+            "Mario",
+            "Kiyo",
+            2,
+            0,
+            "Mario"
+        ],
+        [
+            "Santi",
+            "Marco",
+            2,
+            0,
+            "Santi"
+        ],
+        [
+            "Guille",
+            "Xavi",
+            2,
+            0,
+            "Guille"
+        ],
+        [
+            "Seyok",
+            "Xavi",
+            2,
+            0,
+            "Seyok"
+        ],
+        [
+            "Javi Guerrero",
+            "Remu",
+            1,
+            2,
+            "Remu"
+        ],
+        [
+            "Bipi",
+            "Juanje",
+            2,
+            0,
+            "Bipi"
+        ],
+        [
+            "Juanje",
+            "Pablo Sanz",
+            1,
+            2,
+            "Pablo Sanz"
+        ],
+        [
+            "Marco Calabrese",
+            "Sergio",
+            2,
+            1,
+            "Marco Calabrese"
+        ],
+        [
+            "Rome",
+            "Fita",
+            2,
+            1,
+            "Rome"
+        ],
+        [
+            "Dario",
+            "Tony",
+            0,
+            2,
+            "Tony"
+        ],
+        [
+            "Soto",
+            "Antonio Medina",
+            2,
+            0,
+            "Soto"
+        ],
+        [
+            "Fran",
+            "Pasku",
+            2,
+            1,
+            "Fran"
+        ],
+        [
+            "Kai",
+            "Ruben",
+            2,
+            0,
+            "Kai"
+        ],
+        [
+            "Kiyo",
+            "Santi",
+            0,
+            2,
+            "Santi"
+        ],
+        [
+            "Mario",
+            "Guille",
+            2,
+            0,
+            "Mario"
+        ],
+        [
+            "Pablo Jamones",
+            "Xavi",
+            2,
+            0,
+            "Pablo Jamones"
+        ],
+        [
+            "Rome",
+            "Sergio",
+            2,
+            1,
+            "Rome"
+        ],
+        [
+            "Marco",
+            "Seyok",
+            2,
+            0,
+            "Marco"
+        ],
+        [
+            "Seyok",
+            "Guille",
+            2,
+            0,
+            "Seyok"
+        ],
+        [
+            "Dario",
+            "Rome",
+            2,
+            0,
+            "Dario"
+        ],
+        [
+            "Rome",
+            "Jafervi",
+            0,
+            2,
+            "Jafervi"
+        ],
+        [
+            "Rafa",
+            "Ruben",
+            2,
+            0,
+            "Rafa"
+        ],
+        [
+            "Kiyo",
+            "Xavi",
+            0,
+            2,
+            "Xavi"
+        ],
+        [
+            "Kiyo",
+            "Pablo Jamones",
+            0,
+            2,
+            "Pablo Jamones"
+        ],
+        [
+            "Fran",
+            "Bloke",
+            2,
+            0,
+            "Fran"
+        ],
+        [
+            "Grace",
+            "Borja",
+            2,
+            1,
+            "Grace"
+        ],
+        [
+            "Borja",
+            "Bipi",
+            0,
+            2,
+            "Bipi"
+        ]
+    ]
+}

@@ -1,6 +1,7 @@
 import streamlit as st
 import pandas as pd
 import json
+import streamlit.components.v1 as components
 
 # CSS personalizado para mejorar la apariencia
 st.markdown(
@@ -15,9 +16,9 @@ st.markdown(
             padding: 0;
         }
         .block-container {
-            max-width: 1000px !important;
-            padding-left: 3rem !important;
-            padding-right: 3rem !important;
+            max-width: 100vw !important;
+            padding-left: 1rem !important;
+            padding-right: 1rem !important;
         }
         .main-title {
             text-align: center !important;
@@ -126,4 +127,146 @@ with tab1:
                 st.dataframe(df.drop(columns=["Buchholz", "HeadToHead"]).style.apply(highlight_top4, axis=1), hide_index=True)
 
 with tab2:
-    st.write("Aquí se mostrará el bracket de playoffs próximamente.")
+    st.markdown("<div class='group-title'>Playoffs</div>", unsafe_allow_html=True)
+       # Obtener el top 4 de cada grupo
+    # top_16 = []
+    # for group, df in data['tables'].items():
+    #     df = pd.DataFrame.from_dict(df)[['Puntuación', 'Buchholz', 'HeadToHead']]
+    #     df.reset_index(inplace=True)
+    #     df.rename(columns={'index': 'Nombre'}, inplace=True)
+    #     df = df.sort_values(by=['Puntuación', 'Buchholz', 'HeadToHead'], ascending=False)
+    #     top_16.extend(df['Nombre'].head(4).tolist())
+
+    # # Emparejamientos de octavos
+    # octavos = [
+    #     (top_16[12], top_16[3]),
+    #     (top_16[5], top_16[10]),
+    #     (top_16[8], top_16[7]),
+    #     (top_16[1], top_16[14]),
+    #     (top_16[4], top_16[15]),
+    #     (top_16[13], top_16[6]),
+    #     (top_16[0], top_16[11]),
+    #     (top_16[9], top_16[2]),
+    # ]
+
+    # # HTML con zona central para cuartos/semis/final
+    # html = """
+    # <style>
+    # .bracket-title {
+    #     text-align: center;
+    #     color: white;
+    #     font-size: 36px;
+    #     margin: 20px 0;
+    #     font-weight: bold;
+    #     text-shadow: 2px 2px 10px #000;
+    # }
+    # .bracket-wrapper {
+    # display: flex;
+    # justify-content: center;
+    # align-items: center;
+    # gap: 40px;
+    # padding: 20px;
+    # font-family: 'Segoe UI', sans-serif;
+    # max-width: 100vw;
+    # overflow-x: auto;
+    # }
+    # .column {
+    #     display: flex;
+    #     flex-direction: column;
+    #     gap: 30px;
+    # }
+    # .match {
+    #     background: #004080;
+    #     color: white;
+    #     border: 2px solid #ffffff55;
+    #     border-radius: 12px;
+    #     padding: 10px 20px;
+    #     text-align: center;
+    #     min-width: 220px;
+    #     font-weight: bold;
+    #     box-shadow: 0 0 10px #00ccff88;
+    #     transition: 0.2s;
+    # }
+    # .match:hover {
+    #     background: #007acc;
+    #     transform: scale(1.05);
+    #     box-shadow: 0 0 15px #00ffffaa;
+    # }
+    # .vs {
+    #     font-size: 18px;
+    #     color: #ccc;
+    #     margin: 5px 0;
+    # }
+    # .placeholder {
+    #     display: flex;
+    #     flex-direction: column;
+    #     justify-content: center;
+    #     gap: 80px;
+    #     color: #ffffffaa;
+    #     font-style: italic;
+    #     text-align: center;
+    # }
+    # .placeholder > div {
+    #     border: 2px dashed #ffffff55;
+    #     border-radius: 10px;
+    #     padding: 10px 20px;
+    #     min-width: 150px;
+    # }
+    # </style>
+
+    # <div class="bracket-title">🏆 Playoffs 🏆</div>
+    # <div class="bracket-wrapper">
+    #     <div class="column">
+    # """
+
+    # # Lado izquierdo
+    # for i in range(4):
+    #     a, b = octavos[i]
+    #     html += f"""
+    #     <div class="match">
+    #         {a}<div class="vs">vs</div>{b}
+    #     </div>
+    #     """
+
+    # html += """
+    #     </div>
+
+    #     <div class="placeholder">
+    #         <div>Cuartos</div>
+    #         <div>Cuartos</div>
+    #     </div>
+    #     <div class="placeholder">
+    #         <div>Semifinal</div>
+            
+    #     </div>
+    #     <div class="placeholder">
+    #         <div>Final</div>
+            
+    #     </div>
+    #     <div class="placeholder">
+    #         <div>Semifinal</div>
+            
+    #     </div>
+    #     <div class="placeholder">
+    #         <div>Cuartos</div>
+    #         <div>Cuartos</div>
+    #     </div>
+
+    #     <div class="column">
+    # """
+
+    # # Lado derecho
+    # for i in range(4, 8):
+    #     a, b = octavos[i]
+    #     html += f"""
+    #     <div class="match">
+    #         {a}<div class="vs">vs</div>{b}
+    #     </div>
+    #     """
+
+    # html += """
+    #     </div>
+    # </div>
+    # """
+
+    # components.html(html, height=900)
