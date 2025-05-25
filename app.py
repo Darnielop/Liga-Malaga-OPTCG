@@ -127,8 +127,6 @@ with tab1:
                 st.dataframe(df.drop(columns=["Buchholz", "HeadToHead"]).style.apply(highlight_top4, axis=1), hide_index=True)
 
 with tab2:
-    import streamlit.components.v1 as components
-
     top_16 = []
     for group, df in data['tables'].items():
         df = pd.DataFrame.from_dict(df)[['Puntuación', 'Buchholz', 'HeadToHead']]
