@@ -6,17 +6,17 @@
         "Derrotas": 7,
         "Empates": 0,
         "Puntuación": 7.0,
-        "Buchholz": 139.0,
+        "Buchholz": 144.0,
         "Dif. de pts.": -10,
         "HeadToHead": 0
       },
       "Fran": {
-        "Victorias": 4,
+        "Victorias": 5,
         "Derrotas": 3,
         "Empates": 0,
-        "Puntuación": 17.0,
-        "Buchholz": 103.0,
-        "Dif. de pts.": 2,
+        "Puntuación": 22.0,
+        "Buchholz": 129.0,
+        "Dif. de pts.": 4,
         "HeadToHead": 0
       },
       "Juanje": {
@@ -24,17 +24,17 @@
         "Derrotas": 2,
         "Empates": 0,
         "Puntuación": 25.0,
-        "Buchholz": 121.0,
+        "Buchholz": 126.0,
         "Dif. de pts.": 6,
         "HeadToHead": 0
       },
       "Donete": {
         "Victorias": 6,
-        "Derrotas": 0,
+        "Derrotas": 1,
         "Empates": 0,
         "Puntuación": 26.0,
-        "Buchholz": 95.0,
-        "Dif. de pts.": 10,
+        "Buchholz": 117.0,
+        "Dif. de pts.": 8,
         "HeadToHead": 0
       },
       "Manzanator": {
@@ -42,7 +42,7 @@
         "Derrotas": 7,
         "Empates": 0,
         "Puntuación": 7.0,
-        "Buchholz": 139.0,
+        "Buchholz": 144.0,
         "Dif. de pts.": -10,
         "HeadToHead": 1
       },
@@ -51,7 +51,7 @@
         "Derrotas": 3,
         "Empates": 0,
         "Puntuación": 18.0,
-        "Buchholz": 120.0,
+        "Buchholz": 125.0,
         "Dif. de pts.": 2,
         "HeadToHead": 0
       },
@@ -60,7 +60,7 @@
         "Derrotas": 3,
         "Empates": 0,
         "Puntuación": 17.0,
-        "Buchholz": 108.0,
+        "Buchholz": 113.0,
         "Dif. de pts.": 1,
         "HeadToHead": 0
       },
@@ -69,7 +69,7 @@
         "Derrotas": 2,
         "Empates": 0,
         "Puntuación": 21.0,
-        "Buchholz": 108.0,
+        "Buchholz": 113.0,
         "Dif. de pts.": 4,
         "HeadToHead": 0
       },
@@ -78,7 +78,7 @@
         "Derrotas": 5,
         "Empates": 0,
         "Puntuación": 8.0,
-        "Buchholz": 94.0,
+        "Buchholz": 99.0,
         "Dif. de pts.": -5,
         "HeadToHead": 0
       }
@@ -1264,6 +1264,13 @@
       2,
       1,
       "Dani Estepona"
+    ],
+    [
+      "Fran",
+      "Donete",
+      2,
+      0,
+      "Fran"
     ]
   ]
 }
