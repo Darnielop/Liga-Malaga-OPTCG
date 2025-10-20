@@ -118,10 +118,10 @@ for group, df in group_tables.items():
     calculate_head_to_head(df, group_matches)
 
 # Tabs
-tab1, tab2 = st.tabs(["Clasificación", "Playoff"])
+tab1, tab2 = st.tabs(["Playoff","Clasificación"])
 
 # TAB 1 - CLASIFICACIÓN
-with tab1:
+with tab2:
     col1, col2 = st.columns(2)
 
     for i, (group, df) in enumerate(group_tables.items()):
@@ -156,64 +156,143 @@ with tab1:
                 st.dataframe(df_display[columnas].style.apply(highlight_top4, axis=1), hide_index=True)
 
 # TAB 2 - PLAYOFF
-# TAB 2 - PLAYOFF (animación reloj de arena)
-with tab2:
-    html = """
-    <style>
-    .sandglass-container {
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        flex-direction: column;
-        height: 80vh;
-        font-family: 'Segoe UI', sans-serif;
-    }
 
-    .hourglass {
-        display: inline-block;
-        position: relative;
-        width: 64px;
-        height: 64px;
-    }
+with tab1:
+    # Obtener el top 4 de cada grupo ya ordenado
+    top_16 = []
+    for group, df in group_tables.items():
+        df_display = df.copy()
+        df_display = df_display.sort_values(
+            by=["Puntuación", "Buchholz", "HeadToHead", "Dif. de pts."],
+            ascending=[False, False, False, False]
+        )
+        top_16.extend(df_display.index[:4].tolist())
 
-    .hourglass:after {
-        content: " ";
-        display: block;
-        border-radius: 50%;
-        width: 0;
-        height: 0;
-        margin: 6px;
-        box-sizing: border-box;
-        border: 26px solid #004080;
-        border-color: #004080 transparent #004080 transparent;
-        animation: hourglass 1.2s infinite;
-    }
+    # Emparejamientos (octavos de final)
+    if len(top_16) >= 16:
+        octavos = [
+            (top_16[12], top_16[3]),
+            (top_16[5], top_16[10]),
+            (top_16[8], top_16[7]),
+            (top_16[1], top_16[14]),
+            (top_16[4], top_16[15]),
+            (top_16[13], top_16[6]),
+            (top_16[0], top_16[11]),
+            (top_16[9], top_16[2]),
+        ]
 
-    @keyframes hourglass {
-        0% {
-            transform: rotate(0);
+        html = """
+        <style>
+
+        .bracket-bg {
+            background: radial-gradient(circle at top, #003366 0%, #001f3f 60%, #000814 100%);
+            padding: 40px 0;
+            border-radius: 20px;
+            box-shadow: inset 0 0 50px rgba(0,255,255,0.2);
+            animation: pulseGlow 8s ease-in-out infinite alternate;
         }
-        50% {
-            transform: rotate(180deg);
-        }
-        100% {
-            transform: rotate(360deg);
-        }
-    }
 
-    .sandglass-text {
-        margin-top: 30px;
-        font-size: 28px;
-        font-weight: bold;
-        color: white;
-        text-shadow: 2px 2px 6px #000;
-        text-align: center;
-    }
-    </style>
+        @keyframes pulseGlow {
+            from { box-shadow: inset 0 0 50px rgba(0,255,255,0.15); }
+            to { box-shadow: inset 0 0 80px rgba(46,185,255,0.4); }
+        }
 
-    <div class="sandglass-container">
-        <div class="hourglass"></div>
-        <div class="sandglass-text">⏳ Todavía por determinar</div>
-    </div>
-    """
-    components.html(html, height=700)
+        .bracket-title {
+            text-align: center;
+            color: #00eaff;
+            font-size: 46px;
+            font-family: 'Inter', sans-serif;
+            font-weight: 900;
+            text-shadow: 0 0 20px #00eaffaa, 0 0 40px #007bff77;
+            margin-bottom: 40px;
+            letter-spacing: 2px;
+        }
+
+        .responsive-bracket {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 60px;
+            padding: 0 40px;
+            font-family: 'Inter', sans-serif;
+        }
+
+        .round-column {
+            flex: 1 1 320px;
+            display: flex;
+            flex-direction: column;
+            gap: 24px;
+            align-items: center;
+        }
+
+        .match-box {
+            background: linear-gradient(145deg, #002b5c, #004c91);
+            border: 2px solid rgba(0,255,255,0.3);
+            border-radius: 14px;
+            padding: 16px 20px;
+            text-align: center;
+            width: 100%;
+            max-width: 280px;
+            color: #ffffff;
+            font-size: 18px;
+            font-weight: 700;
+            letter-spacing: 0.5px;
+            text-shadow: 0 0 5px rgba(0,0,0,0.5);
+            box-shadow: 0 0 20px rgba(0,255,255,0.15);
+            transition: all 0.25s ease-in-out;
+            backdrop-filter: blur(4px);
+        }
+
+        .match-box:hover {
+            background: linear-gradient(145deg, #007acc, #00bfff);
+            border-color: #00eaff;
+            transform: scale(1.05);
+            box-shadow: 0 0 25px rgba(0,255,255,0.5);
+        }
+
+        .vs {
+            display: block;
+            color: #00eaff;
+            font-size: 16px;
+            font-weight: 600;
+            margin: 6px 0;
+            text-shadow: 0 0 6px #00eaff77;
+        }
+        </style>
+
+        <div class="bracket-bg">
+            <div class="bracket-title">Playoffs - Cuartos de Final</div>
+            <div class="responsive-bracket">
+
+                <div class="round-column">
+        """
+
+        # Lado izquierdo
+        for i in range(4):
+            a, b = octavos[i]
+            html += f"""
+                <div class="match-box">{a}<span class="vs">VS</span>{b}</div>
+            """
+
+        html += """
+                </div>
+                <div class="round-column">
+        """
+
+        # Lado derecho
+        for i in range(4, 8):
+            a, b = octavos[i]
+            html += f"""
+                <div class="match-box">{a}<span class="vs">VS</span>{b}</div>
+            """
+
+        html += """
+                </div>
+            </div>
+        </div>
+        """
+
+        components.html(html, height=1400)
+
+    else:
+        st.warning("⚠️ No hay suficientes jugadores para generar el cuadro de playoffs (se necesitan al menos 16).")
