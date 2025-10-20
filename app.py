@@ -144,7 +144,7 @@ with tab1:
         df_display['Puntuación'] = df_display['Puntuación'].astype(int)
 
         # Mostrar columnas seleccionadas
-        columnas = ["Nombre", "Puntuación", "Partidos Jugados"]
+        columnas = ["Nombre", "Partidos Jugados", "Puntuación"]
 
         if i % 2 == 0:
             with col1:
