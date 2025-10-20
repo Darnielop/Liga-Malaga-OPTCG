@@ -126,21 +126,34 @@ with tab1:
 
     for i, (group, df) in enumerate(group_tables.items()):
         df_display = df.copy()
+
+        # Calcular Partidos Jugados
+        df_display["Partidos Jugados"] = 0
+        for _, row in df_display.iterrows():
+            jugador = row.name
+            df_display.loc[jugador, "Partidos Jugados"] = sum(
+                1 for m in matches if jugador in m[:2]
+            )
+
         df_display = df_display.sort_values(
             by=["Puntuación", "Buchholz", "HeadToHead", "Dif. de pts."],
             ascending=[False, False, False, False]
         ).reset_index()
+
         df_display.rename(columns={'index': 'Nombre'}, inplace=True)
         df_display['Puntuación'] = df_display['Puntuación'].astype(int)
+
+        # Mostrar columnas seleccionadas
+        columnas = ["Nombre", "Puntuación", "Partidos Jugados"]
 
         if i % 2 == 0:
             with col1:
                 st.markdown(f"<div class='group-title'>{group}</div>", unsafe_allow_html=True)
-                st.dataframe(df_display[["Nombre", "Puntuación"]].style.apply(highlight_top4, axis=1), hide_index=True)
+                st.dataframe(df_display[columnas].style.apply(highlight_top4, axis=1), hide_index=True)
         else:
             with col2:
                 st.markdown(f"<div class='group-title'>{group}</div>", unsafe_allow_html=True)
-                st.dataframe(df_display[["Nombre", "Puntuación"]].style.apply(highlight_top4, axis=1), hide_index=True)
+                st.dataframe(df_display[columnas].style.apply(highlight_top4, axis=1), hide_index=True)
 
 # TAB 2 - PLAYOFF
 # TAB 2 - PLAYOFF (animación reloj de arena)
