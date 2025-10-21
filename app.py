@@ -500,7 +500,7 @@ with tab3:
             with col2:
                 cvv = st.text_input("CVV", placeholder="123", max_chars=3, type="password", key="cvv")
             
-            cardholder_name = st.text_input("Nombre del titular", placeholder="JUAN PEREZ", key="cardholder")
+            cardholder_name = st.text_input("Nombre del titular", placeholder="FRAN MARIKON", key="cardholder")
             
             st.markdown("---")
             
