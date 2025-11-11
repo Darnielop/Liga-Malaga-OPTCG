@@ -17,11 +17,25 @@ from typing import Dict, List, Tuple
 #
 # NOTA: Se asume formato al mejor de 3 (no hay empates).
 
-players: Dict[str, List[str]] = {
-    "Grupo 1": ["Jose Manzano", "Fran", "Juanje", "Donete", "Manzanator", "Ivan Martin", "Pasku", "Remu", "Grace"],
-    "Grupo 2": ["Marco Calabrese", "Francis", "Bipi", "Ruben", "Marco", "Sergio", "Victor", "Soto", "Jota"],
-    "Grupo 3": ["Mario", "Iñaki", "Joselu", "Borja", "Pablo Sanz", "Jorge Echeverria", "Silverify", "Miguel", "Jeb"],
-    "Grupo 4": ["Seyok", "Dario", "Jafervi", "Fatty", "Rome", "Tony", "Bloke", "Dani Estepona", "Rafa"]
+players = {
+    "Grupo 1": [
+        "Marco Calabrese", "Bipi", "Joselu", "Jorge Cuesta", "Ruben Vazquez",
+        "Millan", "Moi", "York Junior", "Fran", "Remus Giurca"
+    ],
+    "Grupo 2": [
+        "Doble J", "Dario", "Silver", "Jose Manzano", "Sara",
+        "Alex", "Mario", "Tony", "Rafa Arcas", "Rome"
+    ],
+    "Grupo 3": [
+        "Bloke", "Francis Gutierrez", "Jorge Echeverria", "Malnacido",
+        "Gonzalo Cris", "Rafa Carneros", "Cristian", "Juanje",
+        "Pasku", "Soto"
+    ],
+    "Grupo 4": [
+        "Manzanator", "Richard", "Pablo Sanz", "Jafervi",
+        "Baute", "Ivan", "Donete", "Jota Fajardo",
+        "Sergio Discipulo", "Jeb"
+    ]
 }
 
 DATA_FILE = 'resultados.json'
