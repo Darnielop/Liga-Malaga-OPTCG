@@ -2,306 +2,306 @@
   "tables": {
     "Grupo 1": {
       "Marco Calabrese": {
-        "Victorias": 1,
+        "Victorias": 2,
         "Derrotas": 2,
         "Empates": 0,
-        "Puntuación": 5.0,
-        "Buchholz": 30.0,
-        "Dif. de pts.": -2,
+        "Puntuación": 8.0,
+        "Buchholz": 51.0,
+        "Dif. de pts.": -1,
         "HeadToHead": 0
       },
       "Bipi": {
-        "Victorias": 3,
+        "Victorias": 4,
         "Derrotas": 0,
         "Empates": 0,
-        "Puntuación": 15.0,
-        "Buchholz": 11.0,
-        "Dif. de pts.": 6,
+        "Puntuación": 18.0,
+        "Buchholz": 26.0,
+        "Dif. de pts.": 7,
         "HeadToHead": 0
       },
       "Joselu": {
         "Victorias": 3,
-        "Derrotas": 0,
+        "Derrotas": 1,
         "Empates": 0,
-        "Puntuación": 13.0,
-        "Buchholz": 12.0,
-        "Dif. de pts.": 5,
+        "Puntuación": 14.0,
+        "Buchholz": 26.0,
+        "Dif. de pts.": 4,
         "HeadToHead": 0
       },
       "Jorge Cuesta": {
         "Victorias": 1,
-        "Derrotas": 2,
+        "Derrotas": 3,
         "Empates": 0,
-        "Puntuación": 5.0,
-        "Buchholz": 15.0,
-        "Dif. de pts.": -2,
+        "Puntuación": 6.0,
+        "Buchholz": 27.0,
+        "Dif. de pts.": -3,
         "HeadToHead": 0
       },
       "Ruben Vazquez": {
-        "Victorias": 1,
+        "Victorias": 2,
         "Derrotas": 2,
         "Empates": 0,
-        "Puntuación": 4.0,
-        "Buchholz": 24.0,
-        "Dif. de pts.": -2,
+        "Puntuación": 9.0,
+        "Buchholz": 30.0,
+        "Dif. de pts.": 0,
         "HeadToHead": 0
       },
       "Millan": {
         "Victorias": 2,
-        "Derrotas": 1,
+        "Derrotas": 2,
         "Empates": 0,
-        "Puntuación": 10.0,
-        "Buchholz": 17.0,
-        "Dif. de pts.": 2,
+        "Puntuación": 11.0,
+        "Buchholz": 35.0,
+        "Dif. de pts.": 1,
         "HeadToHead": 0
       },
       "Moi": {
         "Victorias": 2,
-        "Derrotas": 1,
+        "Derrotas": 2,
         "Empates": 0,
-        "Puntuación": 8.0,
-        "Buchholz": 19.0,
-        "Dif. de pts.": 1,
+        "Puntuación": 9.0,
+        "Buchholz": 44.0,
+        "Dif. de pts.": 0,
         "HeadToHead": 0
       },
       "York Junior": {
-        "Victorias": 1,
+        "Victorias": 2,
         "Derrotas": 2,
         "Empates": 0,
-        "Puntuación": 6.0,
-        "Buchholz": 22.0,
-        "Dif. de pts.": -1,
+        "Puntuación": 9.0,
+        "Buchholz": 40.0,
+        "Dif. de pts.": 0,
         "HeadToHead": 0
       },
       "Fran": {
         "Victorias": 0,
-        "Derrotas": 3,
+        "Derrotas": 4,
         "Empates": 0,
         "Puntuación": 1.0,
-        "Buchholz": 33.0,
-        "Dif. de pts.": -5,
+        "Buchholz": 47.0,
+        "Dif. de pts.": -7,
         "HeadToHead": 0
       },
       "Remus Giurca": {
-        "Victorias": 1,
+        "Victorias": 2,
         "Derrotas": 2,
         "Empates": 0,
-        "Puntuación": 5.0,
-        "Buchholz": 33.0,
-        "Dif. de pts.": -2,
+        "Puntuación": 8.0,
+        "Buchholz": 46.0,
+        "Dif. de pts.": -1,
         "HeadToHead": 0
       }
     },
     "Grupo 2": {
       "Doble J": {
         "Victorias": 0,
-        "Derrotas": 3,
+        "Derrotas": 4,
         "Empates": 0,
         "Puntuación": 1.0,
-        "Buchholz": 28.0,
-        "Dif. de pts.": -5,
+        "Buchholz": 52.0,
+        "Dif. de pts.": -7,
         "HeadToHead": 0
       },
       "Dario": {
         "Victorias": 3,
-        "Derrotas": 0,
+        "Derrotas": 1,
         "Empates": 0,
-        "Puntuación": 13.0,
-        "Buchholz": 8.0,
-        "Dif. de pts.": 5,
+        "Puntuación": 14.0,
+        "Buchholz": 29.0,
+        "Dif. de pts.": 4,
         "HeadToHead": 0
       },
       "Silver": {
-        "Victorias": 3,
+        "Victorias": 4,
         "Derrotas": 0,
         "Empates": 0,
-        "Puntuación": 13.0,
-        "Buchholz": 13.0,
-        "Dif. de pts.": 5,
+        "Puntuación": 18.0,
+        "Buchholz": 27.0,
+        "Dif. de pts.": 7,
         "HeadToHead": 0
       },
       "Jose Manzano": {
         "Victorias": 0,
-        "Derrotas": 3,
+        "Derrotas": 4,
         "Empates": 0,
         "Puntuación": 1.0,
-        "Buchholz": 19.0,
-        "Dif. de pts.": -5,
+        "Buchholz": 39.0,
+        "Dif. de pts.": -7,
         "HeadToHead": 0
       },
       "Sara": {
         "Victorias": 2,
-        "Derrotas": 1,
+        "Derrotas": 2,
         "Empates": 0,
-        "Puntuación": 8.0,
-        "Buchholz": 27.0,
-        "Dif. de pts.": 1,
+        "Puntuación": 9.0,
+        "Buchholz": 41.0,
+        "Dif. de pts.": 0,
         "HeadToHead": 0
       },
       "Alex": {
         "Victorias": 2,
-        "Derrotas": 1,
+        "Derrotas": 2,
         "Empates": 0,
         "Puntuación": 11.0,
-        "Buchholz": 19.0,
-        "Dif. de pts.": 3,
+        "Buchholz": 34.0,
+        "Dif. de pts.": 1,
         "HeadToHead": 0
       },
       "Mario": {
-        "Victorias": 2,
+        "Victorias": 3,
         "Derrotas": 1,
         "Empates": 0,
-        "Puntuación": 10.0,
-        "Buchholz": 20.0,
-        "Dif. de pts.": 2,
+        "Puntuación": 13.0,
+        "Buchholz": 35.0,
+        "Dif. de pts.": 3,
         "HeadToHead": 0
       },
       "Tony": {
-        "Victorias": 1,
+        "Victorias": 2,
         "Derrotas": 2,
         "Empates": 0,
-        "Puntuación": 6.0,
-        "Buchholz": 22.0,
-        "Dif. de pts.": -1,
+        "Puntuación": 11.0,
+        "Buchholz": 39.0,
+        "Dif. de pts.": 1,
         "HeadToHead": 0
       },
       "Rafa Arcas": {
-        "Victorias": 1,
+        "Victorias": 2,
         "Derrotas": 2,
         "Empates": 0,
-        "Puntuación": 3.0,
-        "Buchholz": 27.0,
-        "Dif. de pts.": -3,
+        "Puntuación": 6.0,
+        "Buchholz": 42.0,
+        "Dif. de pts.": -2,
         "HeadToHead": 0
       },
       "Rome": {
-        "Victorias": 1,
+        "Victorias": 2,
         "Derrotas": 2,
         "Empates": 0,
-        "Puntuación": 4.0,
-        "Buchholz": 27.0,
-        "Dif. de pts.": -2,
+        "Puntuación": 9.0,
+        "Buchholz": 34.0,
+        "Dif. de pts.": 0,
         "HeadToHead": 0
       }
     },
     "Grupo 3": {
       "Bloke": {
         "Victorias": 0,
-        "Derrotas": 3,
+        "Derrotas": 4,
         "Empates": 0,
-        "Puntuación": 1.0,
-        "Buchholz": 27.0,
-        "Dif. de pts.": -5,
+        "Puntuación": 2.0,
+        "Buchholz": 50.0,
+        "Dif. de pts.": -6,
         "HeadToHead": 0
       },
       "Francis Gutierrez": {
-        "Victorias": 3,
+        "Victorias": 4,
         "Derrotas": 0,
         "Empates": 0,
-        "Puntuación": 13.0,
-        "Buchholz": 9.0,
-        "Dif. de pts.": 5,
+        "Puntuación": 16.0,
+        "Buchholz": 24.0,
+        "Dif. de pts.": 6,
         "HeadToHead": 0
       },
       "Jorge Echeverria": {
-        "Victorias": 2,
+        "Victorias": 3,
         "Derrotas": 1,
         "Empates": 0,
-        "Puntuación": 9.0,
-        "Buchholz": 15.0,
-        "Dif. de pts.": 2,
+        "Puntuación": 12.0,
+        "Buchholz": 20.0,
+        "Dif. de pts.": 3,
         "HeadToHead": 0
       },
       "Malnacido": {
         "Victorias": 2,
-        "Derrotas": 1,
+        "Derrotas": 2,
         "Empates": 0,
-        "Puntuación": 11.0,
-        "Buchholz": 17.0,
-        "Dif. de pts.": 3,
+        "Puntuación": 12.0,
+        "Buchholz": 29.0,
+        "Dif. de pts.": 2,
         "HeadToHead": 0
       },
       "Gonzalo Cris": {
-        "Victorias": 1,
+        "Victorias": 2,
         "Derrotas": 2,
         "Empates": 0,
-        "Puntuación": 4.0,
-        "Buchholz": 23.0,
-        "Dif. de pts.": -2,
+        "Puntuación": 9.0,
+        "Buchholz": 29.0,
+        "Dif. de pts.": 0,
         "HeadToHead": 0
       },
       "Rafa Carneros": {
-        "Victorias": 1,
+        "Victorias": 2,
         "Derrotas": 2,
         "Empates": 0,
-        "Puntuación": 6.0,
-        "Buchholz": 15.0,
-        "Dif. de pts.": -1,
+        "Puntuación": 11.0,
+        "Buchholz": 29.0,
+        "Dif. de pts.": 1,
         "HeadToHead": 0
       },
       "Cristian": {
         "Victorias": 2,
-        "Derrotas": 1,
+        "Derrotas": 2,
         "Empates": 0,
-        "Puntuación": 10.0,
-        "Buchholz": 21.0,
-        "Dif. de pts.": 2,
+        "Puntuación": 11.0,
+        "Buchholz": 48.0,
+        "Dif. de pts.": 1,
         "HeadToHead": 0
       },
       "Juanje": {
         "Victorias": 2,
-        "Derrotas": 1,
+        "Derrotas": 2,
         "Empates": 0,
         "Puntuación": 7.0,
-        "Buchholz": 24.0,
-        "Dif. de pts.": 1,
+        "Buchholz": 44.0,
+        "Dif. de pts.": -1,
         "HeadToHead": 0
       },
       "Pasku": {
         "Victorias": 0,
-        "Derrotas": 3,
+        "Derrotas": 4,
         "Empates": 0,
         "Puntuación": 0.0,
-        "Buchholz": 33.0,
-        "Dif. de pts.": -6,
+        "Buchholz": 49.0,
+        "Dif. de pts.": -8,
         "HeadToHead": 0
       },
       "Soto": {
-        "Victorias": 2,
+        "Victorias": 3,
         "Derrotas": 1,
         "Empates": 0,
-        "Puntuación": 8.0,
-        "Buchholz": 23.0,
-        "Dif. de pts.": 1,
+        "Puntuación": 11.0,
+        "Buchholz": 42.0,
+        "Dif. de pts.": 2,
         "HeadToHead": 0
       }
     },
     "Grupo 4": {
       "Manzanator": {
         "Victorias": 3,
-        "Derrotas": 0,
+        "Derrotas": 1,
         "Empates": 0,
-        "Puntuación": 13.0,
-        "Buchholz": 9.0,
-        "Dif. de pts.": 5,
+        "Puntuación": 14.0,
+        "Buchholz": 23.0,
+        "Dif. de pts.": 4,
         "HeadToHead": 0
       },
       "Richard": {
         "Victorias": 1,
-        "Derrotas": 2,
+        "Derrotas": 3,
         "Empates": 0,
         "Puntuación": 6.0,
-        "Buchholz": 21.0,
-        "Dif. de pts.": -1,
+        "Buchholz": 47.0,
+        "Dif. de pts.": -3,
         "HeadToHead": 0
       },
       "Pablo Sanz": {
-        "Victorias": 3,
+        "Victorias": 4,
         "Derrotas": 0,
         "Empates": 0,
-        "Puntuación": 11.0,
-        "Buchholz": 13.0,
-        "Dif. de pts.": 4,
+        "Puntuación": 14.0,
+        "Buchholz": 33.0,
+        "Dif. de pts.": 5,
         "HeadToHead": 0
       },
       "Jafervi": {
@@ -309,53 +309,53 @@
         "Derrotas": 3,
         "Empates": 0,
         "Puntuación": 2.0,
-        "Buchholz": 18.0,
+        "Buchholz": 27.0,
         "Dif. de pts.": -4,
         "HeadToHead": 0
       },
       "Baute": {
-        "Victorias": 3,
+        "Victorias": 4,
         "Derrotas": 0,
         "Empates": 0,
-        "Puntuación": 15.0,
-        "Buchholz": 13.0,
-        "Dif. de pts.": 6,
+        "Puntuación": 20.0,
+        "Buchholz": 23.0,
+        "Dif. de pts.": 8,
         "HeadToHead": 0
       },
       "Ivan": {
         "Victorias": 0,
-        "Derrotas": 3,
+        "Derrotas": 4,
         "Empates": 0,
         "Puntuación": 2.0,
-        "Buchholz": 34.0,
-        "Dif. de pts.": -4,
+        "Buchholz": 55.0,
+        "Dif. de pts.": -6,
         "HeadToHead": 0
       },
       "Donete": {
-        "Victorias": 2,
+        "Victorias": 3,
         "Derrotas": 1,
         "Empates": 0,
-        "Puntuación": 6.0,
-        "Buchholz": 19.0,
-        "Dif. de pts.": 0,
+        "Puntuación": 9.0,
+        "Buchholz": 30.0,
+        "Dif. de pts.": 1,
         "HeadToHead": 0
       },
       "Jota Fajardo": {
         "Victorias": 1,
-        "Derrotas": 2,
+        "Derrotas": 3,
         "Empates": 0,
-        "Puntuación": 5.0,
-        "Buchholz": 28.0,
-        "Dif. de pts.": -2,
+        "Puntuación": 6.0,
+        "Buchholz": 45.0,
+        "Dif. de pts.": -3,
         "HeadToHead": 0
       },
       "Sergio Discipulo": {
-        "Victorias": 2,
+        "Victorias": 3,
         "Derrotas": 1,
         "Empates": 0,
-        "Puntuación": 7.0,
-        "Buchholz": 19.0,
-        "Dif. de pts.": 1,
+        "Puntuación": 12.0,
+        "Buchholz": 24.0,
+        "Dif. de pts.": 3,
         "HeadToHead": 0
       },
       "Jeb": {
@@ -363,7 +363,7 @@
         "Derrotas": 3,
         "Empates": 0,
         "Puntuación": 1.0,
-        "Buchholz": 30.0,
+        "Buchholz": 34.0,
         "Dif. de pts.": -5,
         "HeadToHead": 0
       }
@@ -789,6 +789,139 @@
       2,
       0,
       "Millan"
+    ],
+    [
+      "Marco Calabrese",
+      "Joselu",
+      2,
+      1,
+      "Marco Calabrese"
+    ],
+    [
+      "Remus Giurca",
+      "Jorge Cuesta",
+      2,
+      1,
+      "Remus Giurca"
+    ],
+    [
+      "Moi",
+      "Bipi",
+      1,
+      2,
+      "Bipi"
+    ],
+    [
+      "York Junior",
+      "Millan",
+      2,
+      1,
+      "York Junior"
+    ],
+    [
+      "Ruben Vazquez",
+      "Fran",
+      2,
+      0,
+      "Ruben Vazquez"
+    ],
+    [
+      "Mario",
+      "Dario",
+      2,
+      1,
+      "Mario"
+    ],
+    [
+      "Alex",
+      "Tony",
+      0,
+      2,
+      "Tony"
+    ],
+    [
+      "Sara",
+      "Rafa Arcas",
+      1,
+      2,
+      "Rafa Arcas"
+    ],
+    [
+      "Rome",
+      "Jose Manzano",
+      2,
+      0,
+      "Rome"
+    ],
+    [
+      "Silver",
+      "Doble J",
+      2,
+      0,
+      "Silver"
+    ],
+    [
+      "Rafa Carneros",
+      "Juanje",
+      2,
+      0,
+      "Rafa Carneros"
+    ],
+    [
+      "Malnacido",
+      "Soto",
+      1,
+      2,
+      "Soto"
+    ],
+    [
+      "Gonzalo Cris",
+      "Pasku",
+      2,
+      0,
+      "Gonzalo Cris"
+    ],
+    [
+      "Bloke",
+      "Jorge Echeverria",
+      1,
+      2,
+      "Jorge Echeverria"
+    ],
+    [
+      "Francis Gutierrez",
+      "Cristian",
+      2,
+      1,
+      "Francis Gutierrez"
+    ],
+    [
+      "Richard",
+      "Baute",
+      0,
+      2,
+      "Baute"
+    ],
+    [
+      "Donete",
+      "Jota Fajardo",
+      2,
+      1,
+      "Donete"
+    ],
+    [
+      "Pablo Sanz",
+      "Manzanator",
+      2,
+      1,
+      "Pablo Sanz"
+    ],
+    [
+      "Sergio Discipulo",
+      "Ivan",
+      2,
+      0,
+      "Sergio Discipulo"
     ]
   ]
 }
