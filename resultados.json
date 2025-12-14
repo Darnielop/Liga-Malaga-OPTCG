@@ -305,12 +305,12 @@
         "HeadToHead": 0
       },
       "Jafervi": {
-        "Victorias": 0,
+        "Victorias": 1,
         "Derrotas": 3,
         "Empates": 0,
-        "Puntuación": 2.0,
-        "Buchholz": 37.0,
-        "Dif. de pts.": -4,
+        "Puntuación": 7.0,
+        "Buchholz": 38.0,
+        "Dif. de pts.": -2,
         "HeadToHead": 0
       },
       "Baute": {
@@ -336,7 +336,7 @@
         "Derrotas": 1,
         "Empates": 0,
         "Puntuación": 14.0,
-        "Buchholz": 52.0,
+        "Buchholz": 57.0,
         "Dif. de pts.": 3,
         "HeadToHead": 0
       },
@@ -345,7 +345,7 @@
         "Derrotas": 3,
         "Empates": 0,
         "Puntuación": 11.0,
-        "Buchholz": 60.0,
+        "Buchholz": 65.0,
         "Dif. de pts.": -1,
         "HeadToHead": 0
       },
@@ -354,17 +354,17 @@
         "Derrotas": 2,
         "Empates": 0,
         "Puntuación": 12.0,
-        "Buchholz": 42.0,
+        "Buchholz": 47.0,
         "Dif. de pts.": 1,
         "HeadToHead": 0
       },
       "Jeb": {
         "Victorias": 0,
-        "Derrotas": 4,
+        "Derrotas": 5,
         "Empates": 0,
         "Puntuación": 1.0,
-        "Buchholz": 63.0,
-        "Dif. de pts.": -7,
+        "Buchholz": 70.0,
+        "Dif. de pts.": -9,
         "HeadToHead": 0
       }
     }
@@ -1055,6 +1055,13 @@
       2,
       0,
       "Donete"
+    ],
+    [
+      "Jafervi",
+      "Jeb",
+      2,
+      0,
+      "Jafervi"
     ]
   ]
 }
