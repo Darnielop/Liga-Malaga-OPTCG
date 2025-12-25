@@ -219,7 +219,7 @@ def tabla_clasificacion(df):
     st.markdown(html, unsafe_allow_html=True)
 
 # Tabs
-tab2, tab1 = st.tabs(["Clasificación","Playoff"])
+tab1, tab2 = st.tabs(["Clasificación","Playoff"])
 
 # TAB 2 - CLASIFICACIÓN
 with tab2:
